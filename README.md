@@ -13,6 +13,7 @@ This script only works in Windows. There 2 ways to use it
 - ChatGPT
 - Galaxy Watch Pairing (WearOS)
 - Some things can not be ticked in MicroG
+- Crashing MinMicroG Installation (you can fix it with the script with the 3th option)
 - More things that arent tested yet.
 
 # Sources
