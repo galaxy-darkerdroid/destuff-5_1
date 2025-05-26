@@ -19,7 +19,7 @@ This script only works in Windows. There 2 ways to use it
 - XDA Forums: https://xdaforums.com/t/microg-on-s20-fe-5g-with-safetynet-pass-oneui-4-1-oneui-5-0.4435609/
 - Debloating Spreadsheet: https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit?usp=sharing
 
-# Debloated Stuff 
+# Debloated Stuff + DeSamsung
 - com.android.chrome
 - com.sec.android.app.chromecustomizations
 - com.netflix.mediaclient
